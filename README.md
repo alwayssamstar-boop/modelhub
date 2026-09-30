@@ -1,2 +1,9 @@
-# modelhub
-ModelHub — iOS/Android app to pick any AI model (Grok, GPT, Claude, Gemini, Wan, LTX, Seedance, Flux, SDXL, Suno…) for text, image, video, music.
+# ModelHub
+
+Live web app (open in Safari or Chrome, not inside a chat preview):
+
+**https://cake-modem-ftlpk.ship.place/**
+
+Tap a model → Use this model → pick text / image / video / music → Generate.
+
+On iPhone: Safari → Share → Add to Home Screen.
